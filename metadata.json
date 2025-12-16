@@ -1,0 +1,5 @@
+{
+  "name": "Igextreme Agendamento",
+  "description": "A gym instructor scheduling system where clients can book appointments via a calendar, receive WhatsApp notifications, and chat with instructors. The admin panel allows for managing professionals, schedules, client profiles with file attachments, and WhatsApp API configurations.",
+  "requestFramePermissions": []
+}
